@@ -1,1 +1,9 @@
-This is how it works
+NURS-O-TECH (Healthcare & Medical Information Management Platform)
+
+Key Features
+-Secure User Authentication: Implements robust login and sign-up functionalities to ensure data privacy and secure access to personal health information.
+-Dynamic Content Hub: Provides a central "common page" featuring diverse content such as blogs, articles, and posts on medicine, health, and healthcare topics.
+-Personalized User Information: Offers a unique patient-specific section detailing individual medical history and current health status for a tailored user experience.
+-External Resource Integration: Content cards include a "read more" option, linking to external websites for detailed, relevant information.
+-HTTP Protocol Foundation: Utilizes standard HTTP methods (GET for data retrieval, POST for secure data submission) for reliable web interaction.
+
